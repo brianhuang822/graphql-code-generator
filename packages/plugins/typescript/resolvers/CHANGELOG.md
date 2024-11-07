@@ -1,5 +1,15 @@
 # @graphql-codegen/typescript-resolvers
 
+## 4.4.1
+
+### Patch Changes
+
+- [#10187](https://github.com/dotansimha/graphql-code-generator/pull/10187) [`1617e3c`](https://github.com/dotansimha/graphql-code-generator/commit/1617e3cf38f3059cc5ea88b540033f521f03725a) Thanks [@gilgardosh](https://github.com/gilgardosh)! - Fix: type naming for imported enums
+
+- Updated dependencies [[`1617e3c`](https://github.com/dotansimha/graphql-code-generator/commit/1617e3cf38f3059cc5ea88b540033f521f03725a)]:
+  - @graphql-codegen/visitor-plugin-common@5.5.1
+  - @graphql-codegen/typescript@4.1.2
+
 ## 4.4.0
 
 ### Minor Changes
